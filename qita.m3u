@@ -1,1 +1,21 @@
-#EXTINF:-1 group-title="2024-09-15更新"
+#EXTINF:-1 group-title="其他频道",保定新闻综合
+http://111.225.112.190:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",山东教育
+http://111.225.112.190:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",河北公共
+http://111.225.112.190:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",河北少儿科教
+http://111.225.112.190:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",河北影视剧
+http://111.225.112.190:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",河北杂技
+http://111.225.112.190:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://121.19.134.132:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://183.185.218.119:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://111.225.112.190:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://183.185.218.10:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="2024-09-16更新"
